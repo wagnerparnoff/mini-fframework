@@ -1,1 +1,1 @@
-# mini-fframework
+# mini-framework
